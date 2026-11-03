@@ -1,11 +1,22 @@
 {
-  "name": "tu-nombre-de-libreria",
+  "name": "message-data-base-manager",
   "version": "1.0.0",
-  "description": "Librería para administrar mensajes de Discord en SQLite",
+  "description": "Librería para administrar mensajes de Discord en SQLite.",
   "main": "./index.js",
   "type": "module",
-  "keywords": ["discord.js", "sqlite", "better-sqlite3"],
-  "author": "Drebedez",
+  "keywords": [
+    "discord.js",
+    "sqlite",
+    "better-sqlite3",
+    "discord-messages",
+    "database"
+  ],
+  "author": "Raymond J. Aleman Delgado",
+  "files": [
+    "AppLibs/",
+    "index.js",
+    "LICENSE"
+  ],
   "license": "MIT",
   "peerDependencies": {
     "discord.js": "^14.0.0",
