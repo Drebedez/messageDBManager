@@ -1,0 +1,14 @@
+{
+  "name": "tu-nombre-de-libreria",
+  "version": "1.0.0",
+  "description": "Librería para administrar mensajes de Discord en SQLite",
+  "main": "./index.js",
+  "type": "module",
+  "keywords": ["discord.js", "sqlite", "better-sqlite3"],
+  "author": "Drebedez",
+  "license": "MIT",
+  "peerDependencies": {
+    "discord.js": "^14.0.0",
+    "better-sqlite3": "^11.0.0"
+  }
+}
