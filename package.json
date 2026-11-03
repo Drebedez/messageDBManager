@@ -1,6 +1,6 @@
 {
   "name": "@dm-staff/message-data-base-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Librería para administrar mensajes de Discord en SQLite.",
   "main": "./index.js",
   "type": "module",
