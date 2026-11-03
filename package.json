@@ -11,6 +11,9 @@
     "discord-messages",
     "database"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Raymond J. Aleman Delgado",
   "files": [
     "AppLibs/",
