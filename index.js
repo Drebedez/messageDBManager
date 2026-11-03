@@ -1,3 +1,3 @@
 export { 
     MessageDataBaseManager
-} from "./messageManager";
+} from "./scripts/MessageDataBaseManager.js";

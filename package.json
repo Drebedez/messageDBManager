@@ -16,7 +16,7 @@
   },
   "author": "Raymond J. Aleman Delgado",
   "files": [
-    "AppLibs/",
+    "scripts/",
     "index.js",
     "LICENSE"
   ],
